@@ -1,8 +1,8 @@
 ---
 layout: default
-title: O stránke
+O stránke
 ---
 
-O stránke
+<h1 style="color: red;">O stránke</h1>
 
-Táto stránka je venovaná duchovnému hľadaniu
+<p style="color: red;">Táto stránka je venovaná duchovnému hľadaniu</p>
