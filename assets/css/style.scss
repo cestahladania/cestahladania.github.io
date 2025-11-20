@@ -6,4 +6,21 @@
 .page-header {
   background-color: #1a237e;
   background-image: linear-gradient(120deg, #1a237e, #283593);
+  padding: 1rem 1rem !important; /* Zmenšené padding */
+  min-height: 150px !important; /* Menšia výška */
+}
+
+.main-content h1 {
+  margin-top: 0.5rem !important; /* Menšia medzera pod headerom */
+}
+
+.project-name {
+  font-size: 1.8rem !important; /* Menší nadpis */
+  margin-bottom: 0.2rem !important;
+}
+
+.project-tagline {
+  font-size: 0.9rem !important; /* Menší popis */
+  margin-bottom: 0.5rem !important;
+  opacity: 0.9;
 }
