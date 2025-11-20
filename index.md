@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Cesta pútnika
+title: Cesta Hľadania
 ---
-## O čom je táto stránka?
-- Hĺbkové texty o meditácii a sebapoznaní
-- Likvidácia konceptuálnych závislostí
-- Priamy pohľad bez prostredníctva myšlienok
-## Najnovšie texty
-[Tu budú zoznamy článkov...]
+
+# Vitajte na stránke Cesta Hľadania
+
+Tu budú texty o duchovnom hľadaní
