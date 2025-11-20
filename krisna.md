@@ -6,7 +6,4 @@ Krišnamurti
 
 Texty a prednášky Jiddu Krishnamurtiho
 
-- [Prvý článok o Krishnamurtim](/krisna/001.html)
-- [Druhý článok](/clanky/druhy-clanok-krisna.html)
-
-*Ďalšie texty budú pribúdať...*
+- [Alpino 1.júl 1933](/krisna/001.html)
