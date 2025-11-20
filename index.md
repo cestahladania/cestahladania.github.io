@@ -1,5 +1,4 @@
 ---
-layout: default
-title: Cesta Hľadania
+title: Domov
 ---
 Vitajte na stránke Cesta Hľadania
