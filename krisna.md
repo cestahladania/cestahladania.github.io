@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Krišnamurti
 ---
 Texty a prednášky Jiddu Krishnamurtiho
