@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.scss' | relative_url }}">
     <style>
         .container-wrapper {
             display: flex;
@@ -14,6 +15,7 @@
         .sidebar {
             width: 250px;
             padding: 20px;
+            flex-shrink: 0;
         }
         .content {
             flex: 1;
@@ -45,9 +47,11 @@
             .sidebar {
                 width: 100%;
                 padding: 10px;
+                order: 2;
             }
             .content {
                 padding: 10px;
+                order: 1;
             }
             .menu {
                 display: flex;
@@ -73,11 +77,13 @@
     </style>
 </head>
 <body>
+    <!-- Cayman header -->
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
     </header>
 
+    <!-- Náš container s menu a obsahom -->
     <div class="container-wrapper">
         <nav class="sidebar">
             <ul class="menu">
