@@ -3,8 +3,3 @@ description: "Archív textov"
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
-
-# Cayman theme customization
-cayman:
-  header_background_color: "1a237e"
-  header_background_image: "linear-gradient(120deg, #1a237e, #283593)"
