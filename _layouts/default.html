@@ -4,8 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     <style>
-        .container {
+        .page-header {
+            padding: 1rem 1rem !important;
+            min-height: 150px !important;
+        }
+        .container-wrapper {
             display: flex;
             max-width: 1200px;
             margin: 0 auto;
@@ -30,6 +35,7 @@
             text-decoration: none;
             color: #333;
             font-size: 16px;
+            font-weight: bold;
         }
         .menu a:hover {
             color: #1a237e;
@@ -37,11 +43,18 @@
     </style>
 </head>
 <body>
-    <div class="container">
+    <!-- Zachováme pôvodný Cayman header -->
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+    </header>
+
+    <!-- Pridáme container s menu a obsahom -->
+    <div class="container-wrapper">
         <nav class="sidebar">
             <ul class="menu">
                 {% for item in site.data.navigation %}
-                <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+                <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
                 {% endfor %}
             </ul>
         </nav>
