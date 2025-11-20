@@ -6,7 +6,7 @@ Krišnamurti
 
 Texty a prednášky Jiddu Krishnamurtiho
 
-- [Prvý článok o Krishnamurtim](/clanky/prvy-clanok-krisna.html)
+- [Prvý článok o Krishnamurtim](/krisna/001.html)
 - [Druhý článok](/clanky/druhy-clanok-krisna.html)
 
 *Ďalšie texty budú pribúdať...*
