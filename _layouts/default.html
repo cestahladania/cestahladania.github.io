@@ -1,67 +1,76 @@
-<!DOCTYPE html>
-<html lang="sk">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} | {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <style>
-        .page-header {
-            padding: 1rem 1rem !important;
-            min-height: 150px !important;
-        }
+<style>
+    .container-wrapper {
+        display: flex;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+        flex-direction: row;
+    }
+    .sidebar {
+        width: 250px;
+        padding: 20px;
+        flex-shrink: 0;
+    }
+    .content {
+        flex: 1;
+        padding: 20px;
+    }
+    .menu {
+        list-style: none;
+        padding: 0;
+    }
+    .menu li {
+        margin-bottom: 15px;
+    }
+    .menu a {
+        text-decoration: none;
+        color: #333;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .menu a:hover {
+        color: #1a237e;
+    }
+
+    /* Responzívny dizajn pre mobil */
+    @media (max-width: 768px) {
         .container-wrapper {
-            display: flex;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
+            flex-direction: column;
+            padding: 10px;
         }
         .sidebar {
-            width: 200px;
-            padding: 20px;
+            width: 100%;
+            padding: 10px;
+            order: 2; /* Menu pod obsahom na mobile */
         }
         .content {
-            flex: 1;
-            padding: 20px;
+            padding: 10px;
+            order: 1; /* Obsah hore na mobile */
         }
         .menu {
-            list-style: none;
-            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
         }
         .menu li {
-            margin-bottom: 15px;
+            margin-bottom: 0;
         }
         .menu a {
-            text-decoration: none;
-            color: #333;
-            font-size: 16px;
-            font-weight: bold;
+            font-size: 14px;
+            padding: 5px 10px;
+            background: #f5f5f5;
+            border-radius: 4px;
+            display: block;
         }
-        .menu a:hover {
-            color: #1a237e;
-        }
-    </style>
-</head>
-<body>
-    <!-- Zachováme pôvodný Cayman header -->
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-    </header>
+    }
 
-    <!-- Pridáme container s menu a obsahom -->
-    <div class="container-wrapper">
-        <nav class="sidebar">
-            <ul class="menu">
-                {% for item in site.data.navigation %}
-                <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
-                {% endfor %}
-            </ul>
-        </nav>
-        
-        <main class="content">
-            {{ content }}
-        </main>
-    </div>
-</body>
-</html>
+    /* Pre veľmi malé obrazovky */
+    @media (max-width: 480px) {
+        .menu {
+            flex-direction: column;
+        }
+        .menu a {
+            text-align: center;
+        }
+    }
+</style>
