@@ -1,6 +1,6 @@
 ---
 layout: default
-O stránke
+title: O stránke
 ---
 
 <h1 style="color: red;">O stránke</h1>
