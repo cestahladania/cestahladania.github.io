@@ -3,6 +3,6 @@ layout: default
 title: O stránke
 ---
 
-<h1 style="color: red;">O stránke</h1>
+<h3 style="color: red;">O stránke</h3>
 
-<p style="color: red;">Táto stránka je venovaná duchovnému hľadaniu</p>
+<p>Táto stránka je venovaná duchovnému hľadaniu</p>
