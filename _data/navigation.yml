@@ -1,0 +1,8 @@
+- name: Domov
+  link: /
+- name: O stránke
+  link: /about.html
+- name: Články
+  link: /clanky.html
+- name: Archív
+  link: /archiv.html
