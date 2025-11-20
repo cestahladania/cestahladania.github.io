@@ -1,5 +1,5 @@
-title: "Cesta Vhľadu: Zen a Krishnamurti"
-description: "Archív textov pre hľadajúcich vhľad a likvidáciu konceptov"
+title: "Cesta Hľadania"
+description: "Archív textov"
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
@@ -8,7 +8,3 @@ plugins:
 cayman:
   header_background_color: "1a237e"
   header_background_image: "linear-gradient(120deg, #1a237e, #283593)"
-
-# Vlastné texty pre header
-project_name: "Cesta Hľadania"
-project_tagline: "Archív textov"
