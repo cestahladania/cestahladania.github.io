@@ -1,5 +1,3 @@
----
-title: O stránke
----
+[Domov](index.html)
+
 Vitajte na stránke plnej duchovných textov. Ide o osobnú stránku, so svojimi vlastnými pozorovaniami a textami ľudí, ktorí ma oslovili a navigovali na ceste. Najbližšie mi je Jiddu Krišnamurti, ktorý mal rovnaké poznanie, keď sám opisuje stav, kde sa stal okolím, trávou, lienkou, stromom. Podobné stavy som zažíval, ale som o nich nikomu nehovoril zo strachu, že ide o bláznovstvo. Až Jiddu mi ukázal, že išlo o hlboký duchovný vhľad, kde malé ego prepúšťa stolicu vyššiemu ja, alebo vedomiu, ktoré nerozdeľuje na ja a okolie, ale stáva sa jedným. Tak Krišnamurtiho opis, kde pozorujúci a pozorované sa stávajú jedno, mi bol blízky a zrozumiteľný. Sem uložím značnú časť textov nielen od Krišnamurtiho, ale aj od iných duchovných. 
-* [Domov](index.html)
