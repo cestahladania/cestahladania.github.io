@@ -1,6 +1,6 @@
+<div style="text-align: center;">
 [Krišnamurti](krisna.html) | [Rôzne články](rozne.html) | [Theravada](theravada.html) | [ZEN](zen.html) | [Odkazy](odkazy.html) | [O stránke](about.html)
-
----
+</div>
 
 **Najnovšie články**
 
