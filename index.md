@@ -11,6 +11,7 @@
 
 **Najnovšie články**
 
+- [Čo je to ZEN? II.](/zen/cojezen2.html)
 - [Čo je to ZEN? I.](/zen/cojezen.html)
 - [Krišnamurti ALPINO 4. JÚL 1933](krisna/003.html)
 - [Krišnamurti Stresa 2.júl 1933](/krisna/002.html)
