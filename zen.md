@@ -1,4 +1,4 @@
 ---
 title: Zen
 ---
-[Domov(index.html)
+[Domov](index.html)
