@@ -7,6 +7,7 @@
 <a href="about.html">O stránke</a>
 </div>
 ---
+
 **Najnovšie články**
 
 - [Alpino 1.júl 1933](/krisna/001.html)
