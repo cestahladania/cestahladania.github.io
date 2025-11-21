@@ -1,6 +1,3 @@
 ---
-layout: default
-title: ZEN
+title: Zen
 ---
-Texty a učenie Zen budhizmu
-- [Prvý článok o Zen](/clanky/prvy-clanok-zen.html)
