@@ -8,6 +8,4 @@ title: Cesta Hľadania
   <a href="/about.html" style="margin: 0 15px; text-decoration: none; color: #1a237e; font-weight: bold;">O stránke</a>
 </div>
 
-# Vitajte na Ceste Hľadania
-
-Texty o Zen a Krishnamurtim...
+Vitajte na Ceste Hľadania
