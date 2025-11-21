@@ -12,6 +12,6 @@
 **Najnovšie články**
 
 - [Čo je to ZEN?](/zen/cojezen.html)
-- [Krišnamurti ALPINO, TALIANSKO – 4. JÚL 1933](krisna/003.html)
+- [Krišnamurti ALPINO 4. JÚL 1933](krisna/003.html)
 - [Krišnamurti Stresa 2.júl 1933](/krisna/002.html)
 - [Krišnamurti Alpino 1.júl 1933](/krisna/001.html)
