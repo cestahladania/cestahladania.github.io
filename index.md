@@ -1,6 +1,14 @@
 <div style="text-align: center;">
-[Krišnamurti](krisna.html) | [Rôzne články](rozne.html) | [Theravada](theravada.html) | [ZEN](zen.html) | [Odkazy](odkazy.html) | [O stránke](about.html)
+<a href="krisna.html">Krišnamurti</a> | 
+<a href="rozne.html">Rôzne články</a> | 
+<a href="theravada.html">Theravada</a> | 
+<a href="zen.html">ZEN</a> | 
+<a href="odkazy.html">Odkazy</a> | 
+<a href="about.html">O stránke</a>
 </div>
+
+# Vitajte na Ceste Hľadania
+...
 
 **Najnovšie články**
 
