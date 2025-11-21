@@ -1,5 +1,9 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-architect
+title: "Cesta Hľadania"
+description: "Archív textov"
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Vypnite GitHub buttons
+github:
+  is_project_page: false
