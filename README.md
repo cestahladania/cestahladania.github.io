@@ -1,2 +1,2 @@
-Likvidácia Ega a Konceptov – Zbierka zriedkavých textov o zjednotení mysle a zničení ilúzie „Ja“.
+Vitajte v textoch od známych autorov
 * [Testovací text: Skúška](skuska.html)
