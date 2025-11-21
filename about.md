@@ -4,7 +4,7 @@ Vitajte na stránke plnej duchovných textov. Ide o osobnú stránku, so svojimi
 
 Nájdete ma inak na týchto odkazoch:
 
-[Facebook Staroveria](https://www.facebook.com/staroviera)
-[Telegram Staroveria](https://t.me/staroviera)
-[TikTok Prebudený](https://www.tiktok.com/@prebudeny)
-[Instagram Prebudený](https://www.instagram.com/prebudeny)
+* [Facebook Staroveria](https://www.facebook.com/staroviera)
+* [Telegram Staroveria](https://t.me/staroviera)
+* [TikTok Prebudený](https://www.tiktok.com/@prebudeny)
+* [Instagram Prebudený](https://www.instagram.com/prebudeny)
