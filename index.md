@@ -6,6 +6,7 @@
 <a href="odkazy.html">Odkazy</a> | 
 <a href="about.html">O stránke</a>
 </div>
+
 ---
 
 **Najnovšie články**
