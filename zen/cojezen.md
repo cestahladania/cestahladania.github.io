@@ -1,6 +1,6 @@
 [Domov](/index.html) 
 
-**Čo je to ZEN?**
+**Čo je to ZEN? I.**
 
 Zen se snaží probudit intuitivní vhled do skutečnosti, který v nás obvykle spí pod hustými mraky nevědomosti. Nevědomost vyplýva z toho, že jsme se bezpodmínečně vydali vládě rozumu; zen však proti tomu stavu věcí revoltuje. A protože podstata rozumu se vyjadřuje v pojmech a v jejich logice, zen logikou pohrdá a zůstává němý, žáda-li se po něm, aby sám sebe vysvětlil. O hodnotě rozumu lze hovořit teprve tehdy, byla-li předtím uchopena podstata věcí. To znamená, že zen chce obrátit obvyklý běh vědění a že musí najít svůj vlastní, zvláštní způsob, jak utvářet naše nitro, aby v něm probudil transcedentální moudrost.
 
