@@ -24,5 +24,10 @@ Najnovšie články
 
 ---
 
-<!-- Jednoduché počítadlo -->
-<script type="text/javascript" src="//counter.websiteout.net/js/7/0/0/1"></script>
+<a href="https://www.toplist.sk" id="toplistsk1276158" title="TOPlist"><noscript><img src="https://toplist.sk/count.asp?id=1276158&logo=mc&njs=1" border="0"
+alt="TOPlist" width="88" height="60"/></noscript><script language="JavaScript">
+(function(d,e,s) {d.getElementById('toplistsk1276158').innerHTML='<img src="https://toplist.sk/count.asp?id=1276158&logo=mc&http='+
+e(d.referrer)+'&t='+e(d.title)+'&l='+e(d.URL)+'&wi='+e(s.width)+'&he='+e(s.height)+'&cd='+
+e(s.colorDepth)+'" width="88" height="60" border="0" alt="TOPlist" />';
+}(document,encodeURIComponent,window.screen))
+</script></a>
