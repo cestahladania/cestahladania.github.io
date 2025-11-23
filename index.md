@@ -24,6 +24,9 @@ Najnovšie články
 
 ---
 
-<a href="https://www.toplist.sk">
-<img src="https://toplist.sk/count.asp?id=1276158&logo=mc" border="0" alt="TOPlist" width="88" height="60"/>
-</a>
+---
+
+<!-- TOPlist počítadlo -->
+<div style="text-align: center; margin-top: 2rem;">
+<a href="https://www.toplist.sk/"><img src="https://toplist.sk/count.asp?id=1276158" border="0" alt="TOPlist" width="88" height="120" /></a>
+</div>
