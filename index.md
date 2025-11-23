@@ -22,6 +22,6 @@ Najnovšie články
 - [Krišnamurti Stresa 2.júl 1933](/krisna/002.html)
 - [Krišnamurti Alpino 1.júl 1933](/krisna/001.html)
 
-<!-- Počítadlo návštev -->
+<!-- Viditeľné počítadlo -->
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0006&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter" border="0"></a>
+<img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0001&nbdigits=5&type=page&initCount=0" title="Counter" Alt="Hit counter" border="0"></a>
