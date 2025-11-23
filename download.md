@@ -2,7 +2,7 @@
 
 ---
 
-**Súbory na stiahnutie**
+Súbory na stiahnutie
 
 ---
 - [Krishnamurti: Voľnosť, ktorá nevie](/pdf/Krishnamurti.Volnost.Která.Neví.pdf)
