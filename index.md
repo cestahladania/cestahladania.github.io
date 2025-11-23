@@ -16,8 +16,8 @@
 
 ---
 
-- [Krishnamurti: Voľnosť, ktorá nevie - PDF súbor](/pdf/Krishnamurti.Volnost.Která.Neví.pdf){:target="_blank"}
-- [Krishnamurti: Vnútorná revolúcia](/pdf/krishnamurti_revoluce.pdf){:target="_blank"}
+- [Krishnamurti: Voľnosť, ktorá nevie - PDF](/pdf/Krishnamurti.Volnost.Která.Neví.pdf){:target="_blank"}
+- [Krishnamurti: Vnútorná revolúcia - PDF](/pdf/krishnamurti_revoluce.pdf){:target="_blank"}
 - [Krišnamurti ALPINO, 6. JÚL 1933](krisna/004.html)
 - [Čo je to ZEN? II.](/zen/cojezen2.html)
 - [Čo je to ZEN? I.](/zen/cojezen.html)
