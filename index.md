@@ -12,6 +12,7 @@
 
 **Najnovšie články**
 
+- [Krishnamurti: Voľnosť, ktorá nevie - PDF súbor](/pdf/Krishnamurti.Volnost.Která.Neví.pdf)
 - [Krišnamurti ALPINO, 6. JÚL 1933](krisna/004.html)
 - [Čo je to ZEN? II.](/zen/cojezen2.html)
 - [Čo je to ZEN? I.](/zen/cojezen.html)
