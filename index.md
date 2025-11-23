@@ -1,4 +1,5 @@
 <div style="text-align: center;">
+<a href="download.html">Download</a> |
 <a href="krisna.html">Krišnamurti</a> | 
 <a href="rozne.html">Rôzne články</a> | 
 <a href="theravada.html">Theravada</a> | 
