@@ -10,7 +10,9 @@
 
 ---
 
-**Najnovšie články**
+Najnovšie články
+
+---
 
 - [Krishnamurti: Voľnosť, ktorá nevie - PDF súbor](/pdf/Krishnamurti.Volnost.Která.Neví.pdf)
 - [Krišnamurti ALPINO, 6. JÚL 1933](krisna/004.html)
