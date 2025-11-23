@@ -22,5 +22,7 @@ Najnovšie články
 - [Krišnamurti Stresa 2.júl 1933](/krisna/002.html)
 - [Krišnamurti Alpino 1.júl 1933](/krisna/001.html)
 
+---
+
 <!-- Jednoduché počítadlo -->
 <script type="text/javascript" src="//counter.websiteout.net/js/7/0/0/1"></script>
