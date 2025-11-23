@@ -10,7 +10,9 @@
 
 ---
 
-Najnovšie články
+<div style="text-align: center;">
+<strong>Najnovšie články</strong>
+</div>
 
 ---
 
