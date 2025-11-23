@@ -25,6 +25,7 @@
 - [Krišnamurti Alpino 1.júl 1933](/krisna/001.html)
 
 ---
-<a href="https://www.toplist.sk/">
-<img src="https://toplist.sk/count.asp?id=1276158&t=1&l=https://cestahladania.github.io" alt="TOPlist">
+<!-- FreeCounter.eu -->
+<a href="https://www.freecounter.eu/">
+<img src="https://counter6.optistats.ovh/private/freecounter.php?c=12345678" border="0" alt="free counter">
 </a>
