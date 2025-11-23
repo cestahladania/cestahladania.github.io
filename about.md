@@ -8,7 +8,7 @@ Až Jiddu mi ukázal, že išlo o hlboký duchovný vhľad, kde malé ego prepú
 
 Budem zdieľať osobnú cestu, skúsenosti a poznanie, ktoré ma cestou viedlo. Vzhľadom k tomu, že som prešiel aj komplet kresťanstvom, som dobre oboznámený s bibliou a učením denominácií. Napokon som dospel k záveru, že biblia je symbolická kniha. Takže sa budem venovať aj symbolike, či príbehom a podobenstvám, ktoré povznášajú dušu. 
 
-A keď sa mi zadarí, tak sem pridám aj nejaké básne. Ďakujem, že ste sem zavítali.
+Ďakujem, že ste sem zavítali.
 
 ---
 
